@@ -30,7 +30,9 @@
 .ui-menu-color-about {
     background-color: rgb(103, 190, 83);
 }
-
+.ui-menu-color-new {
+    background-color: rgb(233, 85, 0);
+}
 .bg-color-personal-info {
     background-color: #f4f4f4;;
 }
