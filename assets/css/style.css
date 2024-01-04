@@ -235,7 +235,6 @@ footer {
     display: inline-block;
 }
 
-
 .personal-info-item .key p
 .personal-info-item .value p {
 margin: 0;
@@ -251,5 +250,4 @@ margin: 0;
 .personal-info-item .value {
     position: relative;
     width: 60%;
-    
 }
